@@ -1,0 +1,13 @@
+{
+  "name" : " startdb-2022 " ,
+  "versão" : " 1.0.0 " ,
+  "descrição" : " " ,
+  "main" : " desafio.js " ,
+  "roteiros" : {
+    "start" : " node desafio/desafio.js "
+  },
+  "licença" : " ISC " ,
+  "dependências" : {
+    "readline-sync" : " ^1.4.10 "
+  }
+}
