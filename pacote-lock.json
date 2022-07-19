@@ -1,0 +1,31 @@
+{
+  "name" : " startdb-2022 " ,
+  "versão" : " 1.0.0 " ,
+  "lockfileVersion" : 2 ,
+  "requer" : true ,
+  "pacotes" : {
+    "" : {
+      "name" : " startdb-2022 " ,
+      "versão" : " 1.0.0 " ,
+      "licença" : " ISC " ,
+      "dependências" : {
+        "readline-sync" : " ^1.4.10 "
+      }
+    },
+    "node_modules/readline-sync" : {
+      "versão" : " 1.4.10 " ,
+      "resolved" : " https://registry.npmjs.org/readline-sync/-/readline-sync-1.4.10.tgz " ,
+      "integridade" : " sha512-gNva8/6UAe8QYepIQH/jQ2qn91Qj0B9sYjMBBs3QOB8F2CXcKgLxQaJRP76sWVRQt+QU+8fAkCbCvjjMFu7Ycw== " ,
+      "motores" : {
+        "nó" : " >= 0.8.0 "
+      }
+    }
+  },
+  "dependências" : {
+    "readline-sync" : {
+      "versão" : " 1.4.10 " ,
+      "resolved" : " https://registry.npmjs.org/readline-sync/-/readline-sync-1.4.10.tgz " ,
+      "integridade" : " sha512-gNva8/6UAe8QYepIQH/jQ2qn91Qj0B9sYjMBBs3QOB8F2CXcKgLxQaJRP76sWVRQt+QU+8fAkCbCvjjMFu7Ycw== "
+    }
+  }
+}
